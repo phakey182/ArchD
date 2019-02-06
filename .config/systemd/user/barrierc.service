@@ -1,0 +1,13 @@
+[Unit]
+Description=Barrier Client Daemon
+After=network.target
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=3
+SyslogLevel=err
+ExecStart=/usr/bin/barrierc LT01928
+
+[Install]
+WantedBy=default.target

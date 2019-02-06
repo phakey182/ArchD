@@ -1,0 +1,207 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\User\\S-1-5-21-0-0-0-1000
+
+#arch=win32
+
+[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1549195121
+@=""
+
+[Control Panel\\Accessibility\\Blind Access] 1549195121
+"On"="0"
+
+[Control Panel\\Accessibility\\Keyboard Preference] 1549195121
+"On"="1"
+
+[Control Panel\\Accessibility\\ShowSounds] 1549195121
+"On"="0"
+
+[Control Panel\\Colors] 1549195121
+
+[Control Panel\\Desktop] 1549195121
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"DoubleClickHeight"="4"
+"DoubleClickWidth"="4"
+"DragFullWindows"="0"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000578
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000002
+"ForegroundFlashCount"=dword:00000003
+"ForegroundLockTimeout"=dword:00000000
+"IconTitleWrap"="1"
+"LowPowerActive"="0"
+"MenuShowDelay"="400"
+"UserPreferencesMask"=hex:30,00,00,80,10,00,00,00
+"Wallpaper"=""
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+
+[Control Panel\\Desktop\\WindowMetrics] 1549195121
+"BorderWidth"="-15"
+"CaptionHeight"="-270"
+"CaptionWidth"="-270"
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuHeight"="-270"
+"MenuWidth"="-270"
+"PaddedBorderWidth"="0"
+"ScrollHeight"="-240"
+"ScrollWidth"="-240"
+"Shell Icon Size"="32"
+"SmCaptionHeight"="-225"
+"SmCaptionWidth"="-225"
+
+[Control Panel\\International] 1549195121
+"iCalendarType"="1"
+"iCountry"="1"
+"iCurrDigits"="2"
+"iCurrency"="0"
+"iDate"="0"
+"iDigits"="2"
+"iFirstDayOfWeek"="6"
+"iFirstWeekOfYear"="0"
+"iLDate"="0"
+"iLZero"="1"
+"iMeasure"="1"
+"iNegCurr"="0"
+"iNegNumber"="1"
+"iPaperSize"="1"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+"LC_CTYPE"="00000409"
+"LC_MEASUREMENT"="00000409"
+"LC_MONETARY"="00000409"
+"LC_NUMERIC"="00000409"
+"LC_PAPER"="00000409"
+"LC_TELEPHONE"="00000409"
+"LC_TIME"="00000409"
+"Locale"="00000409"
+"Numshape"="1"
+"s1159"="AM"
+"s2359"="PM"
+"sCountry"="United States"
+"sCurrency"="$"
+"sDate"="/"
+"sDecimal"="."
+"sGrouping"="3;0"
+"sLanguage"="ENU"
+"sList"=","
+"sLongDate"="dddd, MMMM dd, yyyy"
+"sMonDecimalSep"="."
+"sMonGrouping"="3;0"
+"sMonThousandSep"=","
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="M/d/yyyy"
+"sThousand"=","
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sYearMonth"="MMMM, yyyy"
+
+[Control Panel\\Keyboard] 1549195121
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[Control Panel\\Mouse] 1549195121
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[Control Panel\\Sound] 1549195121
+"Beep"="Yes"
+
+[Environment] 1549195121
+"TEMP"="C:\\users\\phakey\\Temp"
+"TMP"="C:\\users\\phakey\\Temp"
+
+[Keyboard Layout\\Preload] 1549195121
+"1"="00000409"
+
+[Software\\Microsoft\\Protected Storage System Provider] 1549195121
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1549195121
+"AppData"="C:\\users\\phakey\\Application Data"
+"Cache"="C:\\users\\phakey\\Local Settings\\Temporary Internet Files"
+"Cookies"="C:\\users\\phakey\\Cookies"
+"Desktop"="C:\\users\\phakey\\Desktop"
+"Favorites"="C:\\users\\phakey\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\phakey\\Local Settings\\History"
+"Local AppData"="C:\\users\\phakey\\Local Settings\\Application Data"
+"My Music"="C:\\users\\phakey\\My Music"
+"My Pictures"="C:\\users\\phakey\\My Pictures"
+"My Videos"="C:\\users\\phakey\\My Videos"
+"NetHood"="C:\\users\\phakey\\NetHood"
+"Personal"="C:\\users\\phakey\\My Documents"
+"PrintHood"="C:\\users\\phakey\\PrintHood"
+"Programs"="C:\\users\\phakey\\Start Menu\\Programs"
+"Recent"="C:\\users\\phakey\\Recent"
+"SendTo"="C:\\users\\phakey\\SendTo"
+"Start Menu"="C:\\users\\phakey\\Start Menu"
+"StartUp"="C:\\users\\phakey\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\phakey\\Templates"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1549195121
+"AppData"=str(2):"%USERPROFILE%\\Application Data"
+"Cache"=str(2):"%USERPROFILE%\\Local Settings\\Temporary Internet Files"
+"Cookies"=str(2):"%USERPROFILE%\\Cookies"
+"Desktop"=str(2):"%USERPROFILE%\\Desktop"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\Local Settings\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\Local Settings\\Application Data"
+"My Music"=str(2):"%USERPROFILE%\\My Music"
+"My Pictures"=str(2):"%USERPROFILE%\\My Pictures"
+"My Videos"=str(2):"%USERPROFILE%\\My Videos"
+"NetHood"=str(2):"%USERPROFILE%\\NetHood"
+"Personal"=str(2):"%USERPROFILE%\\My Documents"
+"PrintHood"=str(2):"%USERPROFILE%\\PrintHood"
+"Programs"=str(2):"%USERPROFILE%\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\Templates"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1549195121
+
+[Software\\Wine\\Debug] 1549195121
+"RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
+"RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
+
+[Software\\Wine\\DllOverrides] 1549195121
+"winemenubuilder.exe"="native"
+
+[Software\\Wine\\Fonts] 1549195346
+"Codepages"="1252,437"
+"LogPixels"=dword:00000060
+
+[Software\\Wine\\Fonts\\External Fonts] 1549195346
+"Marlett"="Z:\\opt\\teamviewer\\tv_bin\\wine\\bin\\..\\share\\wine\\fonts\\\\marlett.ttf"
+"Symbol"="Z:\\opt\\teamviewer\\tv_bin\\wine\\bin\\..\\share\\wine\\fonts\\\\symbol.ttf"
+"Tahoma"="Z:\\opt\\teamviewer\\tv_bin\\wine\\bin\\..\\share\\wine\\fonts\\\\tahoma.ttf"
+"Tahoma Bold"="Z:\\opt\\teamviewer\\tv_bin\\wine\\bin\\..\\share\\wine\\fonts\\\\tahomabd.ttf"
+
+[Software\\Wine\\X11 Driver] 1549195121
+"UseXRandR"="N"
+"UseXVidMode"="N"

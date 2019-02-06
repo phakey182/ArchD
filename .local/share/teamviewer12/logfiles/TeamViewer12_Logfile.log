@@ -1,0 +1,1885 @@
+2019/02/03 11:58:42.041  5269 139875867831360 gX0   Logger started.
+2019/02/03 11:58:42.042  5269 139875867831360 gX0   Found 0 Minidump files ...
+2019/02/03 11:58:42.043  5269 139875867831360 gX0   Found 0 core dump files ...
+2019/02/03 11:58:42.043  5269 139875867831360 gX0   systemd: logind service available
+2019/02/03 11:58:42.044  5269 139875867831360 gX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=1]
+2019/02/03 11:58:42.045  5269 139875867831360 gX0   SystemdSessionInfo: New session SystemdSessionInfo [id=1 user=phakey state=user active=1 reliable=1 infoId=0] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser_Lin: phakey [uid=1000, gid=985 home=/home/phakey gecos= shell=/bin/bash]] idle=0(1549194900600636) active=1 type=tty class=user state=active timestamp=1549194426924576 service=login defaultCG= leader=487 audit=1 remote=0 rHost= rUser= killProc=0]
+2019/02/03 11:58:42.045  5269 139875867831360 gX0   SysSessionInfoManager: Session Information provided by systemd [priority: 0]
+2019/02/03 11:58:42.045  5269 139875867831360 gX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2019/02/03 11:58:42.046  5269 139875867831360 gX0   XSocket observer: watching /tmp/.X11-unix
+2019/02/03 11:58:42.046  5269 139875867831360 gX0   XSocket observer: adding XSession: 0
+2019/02/03 11:58:42.054  5269 139875867831360 gX0!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2019/02/03 11:58:42.054  5269 139875867831360 gX0   SysSessionInfoManager: assigned session 0 to info provider 'VT'
+2019/02/03 11:58:42.056  5269 139875867831360 gX0   Initialised XFixes extension (base=87 error=140)
+2019/02/03 11:58:42.056  5269 139875867831360 gX0   TVGuiSlave.64: Running
+2019/02/03 11:59:10.235  5269 139875867831360 gX0   Process received SIGINT from process: 0
+2019/02/03 11:59:10.335  5269 139875867831360 gX0   TVGuiSlave.64: Terminated
+2019/02/03 11:59:36.539  5609 139657726241856 gX0   Logger started.
+2019/02/03 11:59:36.541  5609 139657726241856 gX0   Found 0 Minidump files ...
+2019/02/03 11:59:36.541  5609 139657726241856 gX0   Found 0 core dump files ...
+2019/02/03 11:59:36.542  5609 139657726241856 gX0   systemd: logind service available
+2019/02/03 11:59:36.543  5609 139657726241856 gX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=1]
+2019/02/03 11:59:36.543  5609 139657726241856 gX0   SystemdSessionInfo: New session SystemdSessionInfo [id=1 user=phakey state=user active=1 reliable=1 infoId=0] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser_Lin: phakey [uid=1000, gid=985 home=/home/phakey gecos= shell=/bin/bash]] idle=0(1549194900600636) active=1 type=tty class=user state=active timestamp=1549194426924576 service=login defaultCG= leader=487 audit=1 remote=0 rHost= rUser= killProc=0]
+2019/02/03 11:59:36.543  5609 139657726241856 gX0   SysSessionInfoManager: Session Information provided by systemd [priority: 0]
+2019/02/03 11:59:36.543  5609 139657726241856 gX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2019/02/03 11:59:36.544  5609 139657726241856 gX0   XSocket observer: watching /tmp/.X11-unix
+2019/02/03 11:59:36.544  5609 139657726241856 gX0   XSocket observer: adding XSession: 0
+2019/02/03 11:59:36.551  5609 139657726241856 gX0!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2019/02/03 11:59:36.551  5609 139657726241856 gX0   SysSessionInfoManager: assigned session 0 to info provider 'VT'
+2019/02/03 11:59:36.553  5609 139657726241856 gX0   Initialised XFixes extension (base=87 error=140)
+2019/02/03 11:59:36.553  5609 139657726241856 gX0   TVGuiSlave.64: Running
+2019/02/03 11:59:47.936  5609 139657726241856 gX0   Process received SIGINT from process: 0
+2019/02/03 11:59:48.037  5609 139657726241856 gX0   TVGuiSlave.64: Terminated
+2019/02/03 12:01:01.637  6056 140331127614528 gX0   Logger started.
+2019/02/03 12:01:01.639  6056 140331127614528 gX0   Found 0 Minidump files ...
+2019/02/03 12:01:01.639  6056 140331127614528 gX0   Found 0 core dump files ...
+2019/02/03 12:01:01.640  6056 140331127614528 gX0   systemd: logind service available
+2019/02/03 12:01:01.641  6056 140331127614528 gX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=1]
+2019/02/03 12:01:01.642  6056 140331127614528 gX0   SystemdSessionInfo: New session SystemdSessionInfo [id=1 user=phakey state=user active=1 reliable=1 infoId=0] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser_Lin: phakey [uid=1000, gid=985 home=/home/phakey gecos= shell=/bin/bash]] idle=0(1549194900600636) active=1 type=tty class=user state=active timestamp=1549194426924576 service=login defaultCG= leader=487 audit=1 remote=0 rHost= rUser= killProc=0]
+2019/02/03 12:01:01.642  6056 140331127614528 gX0   SysSessionInfoManager: Session Information provided by systemd [priority: 0]
+2019/02/03 12:01:01.642  6056 140331127614528 gX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2019/02/03 12:01:01.643  6056 140331127614528 gX0   XSocket observer: watching /tmp/.X11-unix
+2019/02/03 12:01:01.643  6056 140331127614528 gX0   XSocket observer: adding XSession: 0
+2019/02/03 12:01:01.651  6056 140331127614528 gX0!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2019/02/03 12:01:01.651  6056 140331127614528 gX0   SysSessionInfoManager: assigned session 0 to info provider 'VT'
+2019/02/03 12:01:01.652  6056 140331127614528 gX0   Initialised XFixes extension (base=87 error=140)
+2019/02/03 12:01:01.652  6056 140331127614528 gX0   TVGuiSlave.64: Running
+2019/02/03 12:01:29.024  6056 140331127614528 gX0   Process received SIGINT from process: 0
+2019/02/03 12:01:29.124  6056 140331127614528 gX0   TVGuiSlave.64: Terminated
+2019/02/03 12:01:35.843  6071 4154345728 C   Logger started.
+2019/02/03 12:01:35.846  6071 4154345728 C   Found 0 Minidump files ...
+2019/02/03 12:01:35.846  6071 4154345728 C   Found 0 core dump files ...
+2019/02/03 12:01:35.847  6071 4154345728 C!! RuntimeInfo: error opening /var/run/teamviewerd.pid
+2019/02/03 12:01:35.847  6071 4154345728 C!! RuntimeInfo: error opening /var/run/teamviewerd.ipc
+2019/02/03 12:01:35.848  6071 4154345728 C   systemd: logind service available
+2019/02/03 12:01:35.849  6071 4154345728 C   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=1]
+2019/02/03 12:01:35.850  6071 4154345728 C   SystemdSessionInfo: New session SystemdSessionInfo [id=1 user=phakey state=user active=1 reliable=1 infoId=0] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser_Lin: phakey [uid=1000, gid=985 home=/home/phakey gecos= shell=/bin/bash]] idle=0(1549194900600636) active=1 type=tty class=user state=active timestamp=1549194426924576 service=login defaultCG= leader=487 audit=1 remote=0 rHost= rUser= killProc=0]
+2019/02/03 12:01:35.850  6071 4154345728 C   SysSessionInfoManager: Session Information provided by systemd [priority: 0]
+2019/02/03 12:01:35.850  6071 4154345728 C   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2019/02/03 12:01:35.850  6071 4154345728 C   XSocket observer: watching /tmp/.X11-unix
+2019/02/03 12:01:35.850  6071 4154345728 C   XSocket observer: adding XSession: 0
+2019/02/03 12:01:35.858  6071 4154345728 C!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2019/02/03 12:01:35.858  6071 4154345728 C   SysSessionInfoManager: assigned session 0 to info provider 'VT'
+2019/02/03 12:01:35.861  6071 4154345728 C!! Configuration: Daemon not running
+2019/02/03 12:01:35.861  6071 4154345728 C   Configuration: Shutdown initiated
+2019/02/03 12:01:35.861  6071 4154345728 C!  Configuration: Wizard did not shut down in time
+2019/02/03 12:01:51.592  6133 4154247424 C   Logger started.
+2019/02/03 12:01:51.595  6133 4154247424 C   Found 0 Minidump files ...
+2019/02/03 12:01:51.595  6133 4154247424 C   Found 0 core dump files ...
+2019/02/03 12:01:51.596  6133 4154247424 C   systemd: logind service available
+2019/02/03 12:01:51.597  6133 4154247424 C   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=1]
+2019/02/03 12:01:51.597  6133 4154247424 C   SystemdSessionInfo: New session SystemdSessionInfo [id=1 user=phakey state=user active=1 reliable=1 infoId=0] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser_Lin: phakey [uid=1000, gid=985 home=/home/phakey gecos= shell=/bin/bash]] idle=0(1549194900600636) active=1 type=tty class=user state=active timestamp=1549194426924576 service=login defaultCG= leader=487 audit=1 remote=0 rHost= rUser= killProc=0]
+2019/02/03 12:01:51.597  6133 4154247424 C   SysSessionInfoManager: Session Information provided by systemd [priority: 0]
+2019/02/03 12:01:51.597  6133 4154247424 C   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2019/02/03 12:01:51.598  6133 4154247424 C   XSocket observer: watching /tmp/.X11-unix
+2019/02/03 12:01:51.598  6133 4154247424 C   XSocket observer: adding XSession: 0
+2019/02/03 12:01:51.606  6133 4154247424 C!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2019/02/03 12:01:51.606  6133 4154247424 C   SysSessionInfoManager: assigned session 0 to info provider 'VT'
+2019/02/03 12:01:51.610  6133 4154247424 C   InterProcessBase::SecureNetwork created
+2019/02/03 12:01:51.610  6133 4154247424 C   Configuration: Shutdown initiated
+2019/02/03 12:01:51.610  6133 4154247424 C!  Configuration: Wizard did not shut down in time
+2019/02/03 12:01:51.610  6133 4154247424 C   interprocessbase::SecureNetwork destroyed
+2019/02/03 12:02:26.157  6330 139650368552000 gX0   Logger started.
+2019/02/03 12:02:26.159  6330 139650368552000 gX0   Found 0 Minidump files ...
+2019/02/03 12:02:26.159  6330 139650368552000 gX0   Found 0 core dump files ...
+2019/02/03 12:02:26.159  6330 139650368552000 gX0   systemd: logind service available
+2019/02/03 12:02:26.161  6330 139650368552000 gX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=1]
+2019/02/03 12:02:26.161  6330 139650368552000 gX0   SystemdSessionInfo: New session SystemdSessionInfo [id=1 user=phakey state=user active=1 reliable=1 infoId=0] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser_Lin: phakey [uid=1000, gid=985 home=/home/phakey gecos= shell=/bin/bash]] idle=0(1549194900600636) active=1 type=tty class=user state=active timestamp=1549194426924576 service=login defaultCG= leader=487 audit=1 remote=0 rHost= rUser= killProc=0]
+2019/02/03 12:02:26.161  6330 139650368552000 gX0   SysSessionInfoManager: Session Information provided by systemd [priority: 0]
+2019/02/03 12:02:26.161  6330 139650368552000 gX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2019/02/03 12:02:26.162  6330 139650368552000 gX0   XSocket observer: watching /tmp/.X11-unix
+2019/02/03 12:02:26.162  6330 139650368552000 gX0   XSocket observer: adding XSession: 0
+2019/02/03 12:02:26.169  6330 139650368552000 gX0!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2019/02/03 12:02:26.169  6330 139650368552000 gX0   SysSessionInfoManager: assigned session 0 to info provider 'VT'
+2019/02/03 12:02:26.171  6330 139650368552000 gX0   Initialised XFixes extension (base=87 error=140)
+2019/02/03 12:02:26.171  6330 139650368552000 gX0   TVGuiSlave.64: Running
+2019/02/03 12:02:56.371  6330 139650224076544 gX0   Audio: PulseAudio enabled
+2019/02/03 12:02:56.373  6330 139650213472000 gX0!! PulseAudio: Context failed: Connection refused, Errorcode=2
+2019/02/03 12:02:56.374  6330 139650213472000 gX0!! PulseAudio: Unable to connect to server, no server running?, Errorcode=2
+2019/02/03 12:02:56.374  6330 139650224076544 gX0!! Audio: Unable to initialise PulseAudio
+2019/02/03 12:02:26.061     8    26 GX0   Logger started.
+2019/02/03 12:02:26.073     8    26 GX0   StringCompare locale: English_United States.1252
+2019/02/03 12:02:26.132     8    26 GX0!! SetProcessStartupOptions(): SetProcessDEPPolicy() failed! LE=120, Errorcode=87
+2019/02/03 12:02:26.148     8    26 GX0   TVW X ErrorHandler org 7e667b17, def 7e502b30 cur 7dad83eb
+2019/02/03 12:02:26.153     8    26 GX0   Wine: Wine DLL initialized
+2019/02/03 12:02:26.153     8    26 GX0   Wine: wine-1.6
+
+2019/02/03 12:02:26.154     8    26 GX0   TVW SID0: SpawnSlave: pid 0
+2019/02/03 12:02:26.154     8    26 GX0   TVW SID0: SpawnSlave: loading TVGuiSlave.64
+2019/02/03 12:02:26.159     8    26 GX0   TVW ObserveFork: OK
+2019/02/03 12:02:26.159     8    26 GX0   Wine: Spawned slave process with type 0
+2019/02/03 12:02:26.160     8    26 GX0   TVW SID1: SpawnSlave: pid 0
+2019/02/03 12:02:26.160     8    26 GX0   TVW SID1: SpawnSlave: loading TVGuiDelegate
+2019/02/03 12:02:26.162     8    26 GX0   TVW ReadSlave [1]: Socket closed
+2019/02/03 12:02:26.162     8    26 GX0!! TVW ObserveFork(ID = 1): read -2, Errorcode=87
+2019/02/03 12:02:26.162     8    26 GX0!! TVW SpawnSlave(type = 1): Death by exit [127], Errorcode=87
+2019/02/03 12:02:26.162     8    26 GX0!! TVW SpawnSlave(type = 1): failed, exiting, Errorcode=87
+2019/02/03 12:02:26.162     8    26 GX0!!!Wine: Unable to spawn slave process of type 1, Errorcode=87
+2019/02/03 12:02:26.163     8    26 GX0   Starting GUI master for slave type 0
+2019/02/03 12:02:26.171     8    26 GX0   Slave connected to GUI master
+2019/02/03 12:02:26.171     8    26 GX0   Starting GUI master for slave type 1
+2019/02/03 12:02:26.171     8    26 GX0!  TeamViewer.exe: unable to send command 1
+2019/02/03 12:02:26.171     8    26 GX0!!!WineGuiMaster[1]: Slave terminated unexpectedly, Errorcode=87
+2019/02/03 12:02:26.171     8    26 GX0!  TeamViewer.exe: unable to send command 2
+2019/02/03 12:02:56.181     8    26 GX0!!!No handshake for slave type 1 after 30 seconds, Errorcode=87
+2019/02/03 12:02:56.214     8    26 GX0   Monitors: X11 Windowing System, \\.\DISPLAY1, 1920x1080 (0,0), flags=21, dpi=96
+2019/02/03 12:02:56.217     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.217     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.217     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.217     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.217     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.217     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.217     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.217     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.217     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.218     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.219     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.220     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.221     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.222     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.223     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.224     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.225     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.226     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.227     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.228     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.229     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.230     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.231     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.232     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.233     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.234     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.235     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.236     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.242     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.244     8    26 GX0   CMain::LoadResourceDLLs(): No custom resource dll found
+2019/02/03 12:02:56.244     8    26 GX0   InterProcessBase::SecureNetwork created
+2019/02/03 12:02:56.249     8    26 GX0   AutoLogin::Login: enabled: 1
+
+
+
+Start:              2019/02/03 12:02:56.249 (UTC)
+Version:            12.0.90041 
+ID:                 0
+Loglevel:           LogAll (0)
+License:            0
+Server:             master3.teamviewer.com
+IC:                 0
+CPU:                x86 Family 6 Model 69 Stepping 1, GenuineIntel
+CPU extensions:     h9
+OS:                 Lx Arch Linux (32-bit)
+IP:                 192.168.0.113
+Proxy-Settings:     Type=0 IP= User=
+AppPath:            C:\TeamViewer\TeamViewer.exe
+UserAccount:        phakey
+
+2019/02/03 12:02:56.253     8    26 GX0   Win32_GUI::FontReallyExists: 'Segoe UI' found 0 matches.
+2019/02/03 12:02:56.253     8    26 GX0   Win32_GUI::FontReallyExists: 'Liberation Sans' found 0 matches.
+2019/02/03 12:02:56.259     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.260     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.260     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.260     8    26 GX0   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2019/02/03 12:02:56.260     8    26 GX0   Opening local TCP connection to 127.0.0.1:5939
+2019/02/03 12:02:56.260     8    26 GX0   Local TCP connection established
+2019/02/03 12:02:56.261     8    26 GX0   Process ID:  L 6193 /  W 8
+2019/02/03 12:02:56.358     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.359     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.359     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.360     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.360     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.362     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.364     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.365     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.365     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.365     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.365     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.365     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.365     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.365     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.365     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.365     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.365     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.365     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.365     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.366     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.367     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.367     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.367     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.367     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.367     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.367     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.367     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.368     8    26 GX0   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2019/02/03 12:02:56.369     8    26 GX0   Received Control_InitIPC_Response processtype=1
+2019/02/03 12:02:56.369     8    26 GX0   Received Control_InitIPC_Response runningProcesses=3
+2019/02/03 12:02:56.369     8    26 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.369     8    26 GX0   Control_InitIPC_Response: all processes 3 completely initialized
+2019/02/03 12:02:56.394     8    26 GX0   Slave signalized initialization
+2019/02/03 12:02:56.395     8     9 GX0!  TeamViewer.exe: unable to send command 9
+2019/02/03 12:02:56.395     8     9 GX0   tvshared::WindowsSessionStateManager::WindowsSessionStateManager(022234B0) state 0
+2019/02/03 12:02:56.395     8     9 GX0   VoIP: VoIPCentral: Set capturing-device = "", rendering-device = ""
+2019/02/03 12:02:56.395     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.396     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.397  6330 139650205079296 gX0!! PulseAudio: Context failed: Connection refused, Errorcode=2
+2019/02/03 12:02:56.397  6330 139650205079296 gX0!! PulseAudio: Unable to connect to server, no server running?, Errorcode=2
+2019/02/03 12:02:56.397     8     9 GX0   MachineID m=0 - 0
+2019/02/03 12:02:56.398     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.398     8    27 GX0   Mixer: Device added: hw:0,3, HDA Intel HDMI - HDMI 0 {b5a85857-bd04-5ae6-a52c-03ae14218333}
+2019/02/03 12:02:56.398     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.399     8    27 GX0   Mixer: Device added: hw:0,7, HDA Intel HDMI - HDMI 1 {7823f6df-8e77-53a0-a25f-9cd96530bcf7}
+2019/02/03 12:02:56.399     8    27 GX0   Mixer: Device added: hw:0,8, HDA Intel HDMI - HDMI 2 {617d6f42-2389-5d0b-a3b7-c468f61655d6}
+2019/02/03 12:02:56.399     8    27 GX0   Mixer: Device added: hw:0,9, HDA Intel HDMI - HDMI 3 {dc92352d-f211-5ec7-9f6b-fb24a1cc7a5a}
+2019/02/03 12:02:56.400     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.400     8    27 GX0   Mixer: Device added: hw:0,10, HDA Intel HDMI - HDMI 4 {908c44ec-56fc-587d-9173-599f65fec270}
+2019/02/03 12:02:56.400     8     9 GX0   TVUpdate::Init() Version-URL: download.teamviewer.com/download/update/ Update-URL: download.teamviewer.com/download/update/
+2019/02/03 12:02:56.400     8    27 GX0   Mixer: Device added: hw:1,0, HDA Intel PCH - CX20751/2 Analog {d01e25a3-6549-57d5-9b0a-c5c8003363e9}
+2019/02/03 12:02:56.400     8    27 GX0   Mixer: Device added: hw:1,0, HDA Intel PCH - CX20751/2 Analog {d01e25a3-6549-57d5-9b0a-c5c8003363e9}
+2019/02/03 12:02:56.402     8     9 GX0   TVUpdate::Init() Preview Channel Number : 1
+2019/02/03 12:02:56.403     8     9 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/02/03 12:02:56.404     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.404     8    31 GX0   ProxySearch: no PAC script detected via WPAD
+2019/02/03 12:02:56.406     8     9 GX0!! MachineHooks: Library not found, Errorcode=126
+2019/02/03 12:02:56.406     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:56.433     8    31 GX0   ProxySearch: no PAC script detected via WPAD
+2019/02/03 12:02:56.458  6330 139650368552000 gX0!  XSM: No X Session Management for current session available (yet)
+2019/02/03 12:02:57.010     8    23 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1401956746 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/02/03 12:02:57.010     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:58.241     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:58.242     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:58.243     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:58.243     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:58.244     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:58.244     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:58.419     8    24 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: bf6a98ea-b4e7-4038-9e88-4874a54d9309)
+2019/02/03 12:02:58.425     8    24 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1401956746 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2019/02/03 12:02:58.425     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.059     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.060     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.068     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.069     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.112     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.119     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.121     8     9 GX0   Wine: HwndToWindow 00020058 -> 2400004
+2019/02/03 12:02:59.121     8     9 GX0   ManagerHolderStateMachine: Switching from None to NotReady
+2019/02/03 12:02:59.121     8    22 GX0   ChatManager::ChatManager: created
+2019/02/03 12:02:59.121     8    22 GX0   ChatManager::Factory: ChatManager created
+2019/02/03 12:02:59.121     8    22 GX0   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2019/02/03 12:02:59.121     8     9 GX0!! DragDropRegistration: could not register window, HR=80040155
+2019/02/03 12:02:59.121     8    22 GX0   IncomingChatCommandRegistration::Start: registering for ready state properties
+2019/02/03 12:02:59.122     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.123     8    22 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 2141e953-33fb-4c1e-81eb-26805f690134)
+2019/02/03 12:02:59.123     8    22 GX0   IncomingChatCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2019/02/03 12:02:59.124     8     9 GX0   AccountLoginGUI::CreateLoginKey(): [OnlineState] System is set to Visible.
+2019/02/03 12:02:59.141     8     9 GX0   Wine: HwndToWindow 000100C6 -> 2400007
+2019/02/03 12:02:59.141     8     9 GX0   Wine: HwndToWindow 00020058 -> 2400004
+2019/02/03 12:02:59.144     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:02:59.144     8     9 GX0   CMainWindow::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1401956746 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2019/02/03 12:02:59.145     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.146     8    22 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "1401956746", TSUserID "0", ServerID "0"
+2019/02/03 12:02:59.147     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.147     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.147     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.147     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.147     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.147     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.148     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.148     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.148     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.148     8     9 GX0   CMainWindowFull::ShowIntroScreenOnStartup()::Show Intro Screen
+2019/02/03 12:02:59.148     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:02:59.149     8     9 GX0!  TeamViewer.exe: unable to send command 5
+2019/02/03 12:02:59.149     8     9 GX0!  TeamViewer.exe: unable to send command 5
+2019/02/03 12:02:59.149     8     9 GX0!! ServerControl: RegisterPowerSettingNotification failed with error 0
+2019/02/03 12:02:59.155     8    22 GX0   Account::UpdateState: KA = 1, active = 1
+2019/02/03 12:02:59.162     8    21 GX0   IpcRouterClock: received router time: 20190203T180256.926720
+2019/02/03 12:02:59.273  6330 139650205079296 gX0!! PulseAudio: Context failed: Connection refused, Errorcode=2
+2019/02/03 12:02:59.273  6330 139650205079296 gX0!! PulseAudio: Unable to connect to server, no server running?, Errorcode=2
+2019/02/03 12:02:59.274     8    27 GX0   Mixer: Device added: hw:0,3, HDA Intel HDMI - HDMI 0 {b5a85857-bd04-5ae6-a52c-03ae14218333}
+2019/02/03 12:02:59.276     8    27 GX0   Mixer: Device added: hw:0,7, HDA Intel HDMI - HDMI 1 {7823f6df-8e77-53a0-a25f-9cd96530bcf7}
+2019/02/03 12:02:59.276     8    27 GX0   Mixer: Device added: hw:0,8, HDA Intel HDMI - HDMI 2 {617d6f42-2389-5d0b-a3b7-c468f61655d6}
+2019/02/03 12:02:59.276     8    27 GX0   Mixer: Device added: hw:0,9, HDA Intel HDMI - HDMI 3 {dc92352d-f211-5ec7-9f6b-fb24a1cc7a5a}
+2019/02/03 12:02:59.277     8    27 GX0   Mixer: Device added: hw:0,10, HDA Intel HDMI - HDMI 4 {908c44ec-56fc-587d-9173-599f65fec270}
+2019/02/03 12:02:59.277     8    27 GX0   Mixer: Device added: hw:1,0, HDA Intel PCH - CX20751/2 Analog {d01e25a3-6549-57d5-9b0a-c5c8003363e9}
+2019/02/03 12:02:59.277     8    27 GX0   Mixer: Device added: hw:1,0, HDA Intel PCH - CX20751/2 Analog {d01e25a3-6549-57d5-9b0a-c5c8003363e9}
+2019/02/03 12:02:59.279  6330 139650224076544 gX0   ALSAMixer: Opened mixer Master,0 on device default
+2019/02/03 12:02:59.279  6330 139650224076544 gX0   ALSAMixer: Opened mixer Capture,0 on device default
+2019/02/03 12:02:59.281     8    33 GX0   VoIP: VoIPCentral: Set capturing-device = "", rendering-device = ""
+2019/02/03 12:02:59.282  6330 139650224076544 gX0   ALSAMixer: Closing mixer Master on device default
+2019/02/03 12:02:59.282  6330 139650224076544 gX0   ALSAMixer: Closing mixer Capture on device default
+2019/02/03 12:02:59.298     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:02:59.298     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:02:59.300     8     9 GX0   Account::SetLoginState: new state: 2
+2019/02/03 12:02:59.301     8     9 GX0   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2019/02/03 12:02:59.303     8     9 GX0   TVW X Error 3 on ???, Req 2.0 (#1737 r37748744): BadWindow (invalid Window parameter)
+2019/02/03 12:03:00.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:01.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:01.796     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:03:02.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:03.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:04.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:04.150     8    22 GX0!  IntroScreen::CloseOnError(): startedViaMenuItem=0, current state=7, timeout=5
+2019/02/03 12:03:04.150     8    22 GX0!  TeamViewer.exe: unable to send command 5
+2019/02/03 12:03:04.151     8    22 GX0!  TeamViewer.exe: unable to send command 5
+2019/02/03 12:03:04.157     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:04.158     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:04.158     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:04.158     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:05.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:06.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:07.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:08.024     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.024     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.024     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.025     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.027     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.028     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.028     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.029     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.029     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:08.466     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.466     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.467     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.467     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.469     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.470     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.470     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.471     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.471     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.632     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.633     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.633     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.633     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.635     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.636     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.636     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.636     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.637     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.909     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.910     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.910     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.910     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.913     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.913     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.914     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.914     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:08.914     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.012     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.012     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.013     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.013     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.015     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.016     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.016     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.016     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.016     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.143     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.143     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.144     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.144     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.146     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.147     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.147     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.148     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.148     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.151     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:09.321     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.321     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.322     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.322     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.324     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.325     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.325     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.325     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.326     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.506     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.506     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.506     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.507     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.509     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.510     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.510     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.511     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.511     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.635     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.635     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.635     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.636     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.638     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.639     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.639     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.639     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.640     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.726     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.726     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.727     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.727     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.729     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.730     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.730     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.730     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.731     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.935     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.935     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.936     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.936     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.938     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.939     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.939     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.940     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:09.940     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:10.239     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.239     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.240     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.240     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.242     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.243     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.243     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.244     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.244     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.628     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.629     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.629     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.629     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.632     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.633     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.633     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.633     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.634     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.701     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.701     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.702     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.702     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.704     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.704     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.705     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.705     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.705     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.914     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.914     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.915     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.915     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.917     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.918     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.919     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.919     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:10.919     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.112     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.113     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.113     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.113     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.116     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.117     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.117     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.118     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.118     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.121     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.121     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.121     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.121     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.122     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.122     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.122     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.122     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.123     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:11.810     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.811     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.811     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.811     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.814     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.815     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.815     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.816     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.816     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.946     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.947     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.947     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.947     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.949     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.950     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.950     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.950     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:11.950     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:12.198     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.198     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.199     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.199     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.201     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.202     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.203     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.203     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.203     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.346     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.347     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.347     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.347     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.350     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.350     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.351     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.351     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.351     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.479     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.479     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.479     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.480     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.481     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.482     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.482     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.482     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.482     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.547     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.547     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.548     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.548     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.550     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.550     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.550     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.551     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:12.551     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:13.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:13.826     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:13.826     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:13.827     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:13.827     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:13.830     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:13.831     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:13.831     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:13.831     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:14.336     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.337     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.337     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.337     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.339     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.339     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.339     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.339     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.505     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.506     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.506     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.506     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.508     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.509     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.509     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.509     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.640     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.640     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.640     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.641     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.643     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.643     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.644     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.644     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.890     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.890     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.891     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.891     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.893     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.893     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.893     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:14.894     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.087     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.088     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.088     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.088     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.091     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.091     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.091     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.092     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:15.330     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.331     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.331     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.331     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.334     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.334     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.335     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.335     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.564     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.565     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.565     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.565     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.567     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.567     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.568     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.568     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.920     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.921     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.921     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.921     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.924     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.924     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.924     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:15.925     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:16.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:16.361     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:16.361     8     9 GX0   Account::SetLoginState: new state: 3
+2019/02/03 12:03:16.408     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:03:16.409     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:03:16.410     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 5, CallbackID: {dd00b024-caab-41ae-bafb-5aad29a2628a}
+2019/02/03 12:03:16.411     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 7, CallbackID: {5643db64-b1f8-41ec-8ee3-10a9080e6d8b}
+2019/02/03 12:03:16.412     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 13, CallbackID: {439b6f51-9afb-4166-b668-99d9784b4497}
+2019/02/03 12:03:16.413     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 15, CallbackID: {6eda3a16-0a2a-4da5-b1f5-5f039b223691}
+2019/02/03 12:03:16.414     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 53, CallbackID: {d9b098e4-3495-4105-b84c-136cef7f921d}
+2019/02/03 12:03:16.416     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 1, CallbackID: {c4d1dcae-dd54-45ee-8faf-7e887e5f16e6}
+2019/02/03 12:03:16.417     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 23, CallbackID: {9d287745-a618-41f9-aa3f-437c69788637}
+2019/02/03 12:03:16.419     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 25, CallbackID: {ef7c4a1e-0f38-4071-954f-c9bf67f0cba6}
+2019/02/03 12:03:16.420     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 24, CallbackID: {1fb1d650-4568-4fdd-8284-53b3be9aaf10}
+2019/02/03 12:03:16.420     8    24 GX0   AccountLogin::Start: Trying account authentication
+2019/02/03 12:03:16.732     8    24 GX0   AccountLogin::HandleChallenge: Try V2Login
+2019/02/03 12:03:16.920     8    21 GX0!! AccountLogin::Error: Authentication failed with error 87
+2019/02/03 12:03:16.921     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:16.921     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:16.922     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:16.922     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:16.922     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:16.923     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:16.924     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:16.924     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:16.925     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:16.940     8     9 GX0   Account::SetLoginState: new state: 2
+2019/02/03 12:03:16.947     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:17.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:18.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:19.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:20.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:20.698     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:20.698     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:20.698     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:20.699     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:20.701     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:20.702     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:20.702     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:20.702     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.055     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.056     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.056     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.056     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.058     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.059     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.059     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.059     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:21.218     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.218     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.218     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.219     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.221     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.221     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.222     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.222     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.348     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.348     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.349     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.349     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.351     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.351     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.352     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.352     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.607     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.607     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.607     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.608     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.610     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.610     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.611     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.611     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.793     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.793     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.793     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.794     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.796     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.796     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.797     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.797     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.984     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.984     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.984     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.985     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.987     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.987     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.988     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:21.988     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:22.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:22.172     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:22.172     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:22.172     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:22.173     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:22.175     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:22.175     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:22.176     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:22.176     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:22.502     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:22.502     8     9 GX0   Account::SetLoginState: new state: 3
+2019/02/03 12:03:22.547     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:03:22.547     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:03:22.548     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 5, CallbackID: {18d51a19-1460-4353-b23a-c974df8dd4eb}
+2019/02/03 12:03:22.549     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 7, CallbackID: {290cdc6b-4b50-4633-9ed1-10d97d3b660e}
+2019/02/03 12:03:22.551     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 13, CallbackID: {3cfa4c73-9197-4905-9e75-96558ed805e2}
+2019/02/03 12:03:22.552     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 15, CallbackID: {8fe20603-d937-4db3-abc4-ac56e8db468c}
+2019/02/03 12:03:22.554     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 53, CallbackID: {8b2f3347-1f0c-424a-8e6d-5c41632391b3}
+2019/02/03 12:03:22.555     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 1, CallbackID: {45c594e3-6e7e-43d1-a291-63a44f16d971}
+2019/02/03 12:03:22.556     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 23, CallbackID: {d4975e93-bec7-45e9-a0cd-6bbcd217658a}
+2019/02/03 12:03:22.557     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 25, CallbackID: {0dbd3968-c60a-4a7e-b72f-51aa2b3fac6a}
+2019/02/03 12:03:22.559     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 24, CallbackID: {2480ffd6-90cd-4567-bff6-d47fc2d45da8}
+2019/02/03 12:03:22.559     8    21 GX0   AccountLogin::Start: Trying account authentication
+2019/02/03 12:03:22.874     8    21 GX0   AccountLogin::HandleChallenge: Try V2Login
+2019/02/03 12:03:23.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:23.182     8    24 GX0!! AccountLogin::Error: Authentication failed with error 24
+2019/02/03 12:03:23.182     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:23.183     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:23.184     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:23.185     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:23.185     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:23.198     8     9 GX0   Account::SetLoginState: new state: 2
+2019/02/03 12:03:23.205     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:24.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:25.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:26.158     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:26.580     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:26.580     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:26.581     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:26.581     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:26.583     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:26.583     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:26.583     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:26.584     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:27.281     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.281     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.281     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.281     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.283     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.284     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.284     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.284     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.822     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.822     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.822     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.823     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.825     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.825     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.825     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.826     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.986     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.987     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.987     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.987     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.990     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.990     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.990     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:27.991     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:28.319     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.319     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.319     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.320     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.321     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.321     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.321     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.322     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.619     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.619     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.620     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.620     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.622     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.622     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.622     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.622     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.797     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.797     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.797     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.798     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.800     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.800     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.800     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:28.800     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.008     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.008     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.009     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.009     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.011     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.011     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.011     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.012     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:29.348     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.348     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.349     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.349     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.351     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.351     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.352     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.352     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.687     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:29.688     8     9 GX0   Account::SetLoginState: new state: 3
+2019/02/03 12:03:29.732     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:03:29.732     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:03:29.734     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 5, CallbackID: {35c736c6-bdab-43da-bae6-27b8a2cafa1e}
+2019/02/03 12:03:29.735     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 7, CallbackID: {91838b47-22f7-4cc7-8c1e-4dcac595fd73}
+2019/02/03 12:03:29.736     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 13, CallbackID: {4ae7e1a0-f720-48f8-99f2-89fce1d629a0}
+2019/02/03 12:03:29.737     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 15, CallbackID: {b6d32f6e-e282-4b91-970b-ca64a564912a}
+2019/02/03 12:03:29.738     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 53, CallbackID: {6474a6f6-c179-465e-9b26-abfb75caf868}
+2019/02/03 12:03:29.740     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 1, CallbackID: {3e5361a3-dfe9-42b3-9a06-cb723e2e2b0d}
+2019/02/03 12:03:29.741     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 23, CallbackID: {466e9cc0-77ad-4e27-a32b-88e4c946ba3b}
+2019/02/03 12:03:29.742     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 25, CallbackID: {2e889233-fa39-45c5-90d5-f19dfb54022b}
+2019/02/03 12:03:29.743     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 24, CallbackID: {0daa5bb6-3c92-4dfb-b87a-1d95ded80e72}
+2019/02/03 12:03:29.743     8    24 GX0   AccountLogin::Start: Trying account authentication
+2019/02/03 12:03:30.053     8    23 GX0   AccountLogin::HandleChallenge: Try V2Login
+2019/02/03 12:03:30.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:30.250     8    22 GX0!! AccountLogin::Error: Authentication failed with error 87
+2019/02/03 12:03:30.251     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:30.252     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:30.252     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:30.253     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:30.253     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:30.254     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:30.255     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:30.255     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:30.256     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:30.266     8     9 GX0   Account::SetLoginState: new state: 2
+2019/02/03 12:03:30.274     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:31.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:32.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:33.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:34.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:35.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:36.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:37.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:38.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:39.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:40.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:41.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:42.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:43.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:44.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:45.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:45.871     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:45.871     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:45.872     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:45.872     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:45.874     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:45.875     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:45.875     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:45.875     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:46.460     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.461     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.461     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.462     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.464     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.465     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.465     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.465     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.746     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.746     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.746     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.747     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.749     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.749     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.749     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.749     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.963     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.963     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.964     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.964     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.966     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.966     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.966     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:46.967     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:47.293     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.293     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.293     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.294     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.296     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.296     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.296     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.296     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.583     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.584     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.584     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.584     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.586     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.587     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.587     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.587     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.768     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.768     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.769     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.769     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.771     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.772     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.772     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.772     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.973     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.973     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.974     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.974     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.976     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.976     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.976     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:47.976     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:48.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:48.632     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:48.632     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:48.633     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:48.633     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:48.635     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:48.635     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:48.636     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:48.636     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:48.973     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:48.974     8     9 GX0   Account::SetLoginState: new state: 3
+2019/02/03 12:03:49.020     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:03:49.020     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:03:49.021     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 5, CallbackID: {bae83450-df78-46dc-9b95-4e3aa65445a1}
+2019/02/03 12:03:49.022     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 7, CallbackID: {e3750b79-3bb5-4abf-ae21-ff4123f5e98f}
+2019/02/03 12:03:49.024     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 13, CallbackID: {ad9ba95c-1343-4725-80b9-dea0743e1ed9}
+2019/02/03 12:03:49.025     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 15, CallbackID: {701eb7de-203a-49de-9a13-bca1ffb12407}
+2019/02/03 12:03:49.027     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 53, CallbackID: {547974b2-f567-4034-a963-07b2a422867a}
+2019/02/03 12:03:49.028     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 1, CallbackID: {a545d58a-b0c3-4b77-916a-e89fd064a6c5}
+2019/02/03 12:03:49.029     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 23, CallbackID: {06fe30ba-13c2-4328-8a79-c89e65dba644}
+2019/02/03 12:03:49.030     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 25, CallbackID: {68b5b891-3963-4e94-adbd-67e7283f7581}
+2019/02/03 12:03:49.032     8    24 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 24, CallbackID: {1ee84411-8458-430c-8450-d3e85ff51a49}
+2019/02/03 12:03:49.032     8    24 GX0   AccountLogin::Start: Trying account authentication
+2019/02/03 12:03:49.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:49.228     8    24 GX0   AccountLogin::HandleChallenge: Try V2Login
+2019/02/03 12:03:49.419     8    22 GX0!! AccountLogin::Error: Authentication failed with error 87
+2019/02/03 12:03:49.419     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:49.420     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:49.420     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:49.420     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:49.421     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:49.422     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:49.423     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:49.423     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:49.424     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:49.438     8     9 GX0   Account::SetLoginState: new state: 2
+2019/02/03 12:03:49.444     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:03:50.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:51.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:52.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:53.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:54.145     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:55.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:56.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:57.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:58.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:03:59.146     8     9 GX0!  TeamViewer.exe: unable to send command 7
+2019/02/03 12:04:43.977     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:47.706     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:47.707     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:47.707     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:47.707     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:47.710     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:47.710     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:47.711     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:47.711     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.658     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.658     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.658     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.659     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.661     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.661     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.661     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.661     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.848     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.848     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.848     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.849     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.851     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.851     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.851     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.851     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.994     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.995     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.995     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.995     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.997     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.997     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.998     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:48.998     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:49.252     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:49.252     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:49.252     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:49.253     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:49.255     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:49.255     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:49.255     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:49.255     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.527     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.528     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.528     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.528     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.530     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.530     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.531     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.531     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.708     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.708     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.709     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.709     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.711     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.711     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.712     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.712     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.873     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.873     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.874     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.874     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.877     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.877     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.878     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:50.878     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.047     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.048     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.048     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.048     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.050     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.050     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.050     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.051     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.205     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.206     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.206     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.206     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.207     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.207     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.207     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.208     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.859     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.859     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.860     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.860     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.863     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.863     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.864     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:51.864     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.504     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.505     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.505     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.506     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.508     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.508     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.509     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.509     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.773     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.773     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.773     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.773     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.774     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.774     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.774     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.774     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.947     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.947     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.948     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.948     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.950     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.951     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.951     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:52.951     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.205     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.205     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.206     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.206     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.208     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.209     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.209     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.209     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.456     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.457     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.457     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.457     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.460     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.460     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.460     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.461     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.903     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.904     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.904     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.904     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.907     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.907     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.907     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:53.907     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.193     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.193     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.194     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.194     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.196     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.196     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.196     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.197     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.696     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.696     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.696     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.697     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.699     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.699     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.700     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:54.700     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.066     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.066     8     9 GX0   Account::SetLoginState: new state: 3
+2019/02/03 12:04:55.110     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:04:55.111     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:04:55.112     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 5, CallbackID: {ac00d30e-b2d4-4be8-8d10-ff8eaf5fb765}
+2019/02/03 12:04:55.113     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 7, CallbackID: {738617af-f8c1-4650-a844-9608993359bf}
+2019/02/03 12:04:55.115     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 13, CallbackID: {6f97fc3a-fff7-4fdd-a8b0-e8da4459ecdc}
+2019/02/03 12:04:55.116     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 15, CallbackID: {bae07c52-8e0f-49a9-b0d8-3ffe341ad2af}
+2019/02/03 12:04:55.117     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 14, CT: 53, CallbackID: {114ecd30-c6e3-4355-8c0f-ee6a3349c0c4}
+2019/02/03 12:04:55.118     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 1, CallbackID: {7f18c377-3807-477f-8d3a-f598dcdf942a}
+2019/02/03 12:04:55.120     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 23, CallbackID: {d5ada40d-0a08-40ba-8abb-a3b10449d278}
+2019/02/03 12:04:55.121     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 25, CallbackID: {e557fa76-2cad-464e-9d49-4f3225a5d7e6}
+2019/02/03 12:04:55.122     8    21 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 18, CT: 24, CallbackID: {25862961-2480-43d8-a549-2fcb681284f2}
+2019/02/03 12:04:55.122     8    21 GX0   AccountLogin::Start: Trying account authentication
+2019/02/03 12:04:55.444     8    23 GX0   AccountLogin::HandleChallenge: Try V2Login
+2019/02/03 12:04:55.640     8    22 GX0   AccountLogin::HandleLoginFinished: Authentication successful
+2019/02/03 12:04:55.716     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.716     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.717     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.717     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.717     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.717     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.724     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.724     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.724     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.724     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.724     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.725     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.725     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.726     8    22 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 23, CT: 17, CallbackID: {af7630bd-ff17-4a4e-933a-6be60738cc19}
+2019/02/03 12:04:55.727     8    22 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 23, CT: 19, CallbackID: {df461066-e27d-43f2-97cd-d7374cb8b5fa}
+2019/02/03 12:04:55.728     8    22 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 23, CT: 31, CallbackID: {36ed4b3b-e028-47f0-8efe-c69940afc8a1}
+2019/02/03 12:04:55.729     8    22 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 23, CT: 20, CallbackID: {d3fa4b68-ce89-4425-a177-6d3292fe546f}
+2019/02/03 12:04:55.731     8    22 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 23, CT: 21, CallbackID: {f453e170-7df7-49b4-b6b9-3e796eea98bd}
+2019/02/03 12:04:55.732     8    22 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 23, CT: 25, CallbackID: {48be9af5-cb20-4647-92d0-cab415286f92}
+2019/02/03 12:04:55.733     8    22 GX0   ControlCenterIPCImplementation::RegisterPacketCallback(): CC: 23, CT: 27, CallbackID: {20d27305-9ac8-4771-98ee-24f6386c45c5}
+2019/02/03 12:04:55.737     8    22 GX0   AccountStorageConnector: Created.
+2019/02/03 12:04:55.737     8     9 GX0   PartnerList::UpdateBuddyList: m_completeUpdateSignal called.
+2019/02/03 12:04:55.738     8     9 GX0   Account::SetLoginState: new state: 4
+2019/02/03 12:04:55.802     8     9 GX0   ManagerHolderStateMachine: Switching from ReadyForLogin to LoggedIn
+2019/02/03 12:04:55.803     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.803     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.805     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.805     8    23 GX0   ChatProviderRegistration::BuildPayloadAndSendProviderCommand: registering with [Type=Account, Id=51084560]
+2019/02/03 12:04:55.805     8    23 GX0   ChatProviderRegistrationManager::InitializeAccountChat: AccountId = 51084560
+2019/02/03 12:04:55.806     8    23 GX0   QueryRoomsOperation::Execute: Executing QueryRooms for first page of rooms (MaxNumberOfResults = 10)
+2019/02/03 12:04:55.812     8     9 GX0!! AccountPictureStorage::ReadJsonFile: Failed to open stream onto C:\users\phakey\Local Settings\Application Data\TeamViewer\AccountPictureCache\51084560\pictures.cache, Errorcode=2
+2019/02/03 12:04:55.813     8     9 GX0!! AccountPictureStorage::ReadPictures. Metafile C:\users\phakey\Local Settings\Application Data\TeamViewer\AccountPictureCache\51084560\pictures.cache could not be parsed., Errorcode=2
+2019/02/03 12:04:55.813     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.813     8     9 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.815     8     9 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/02/03 12:04:55.897     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.900     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.902     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:55.903     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:04:56.395     8    24 GX0   RequestAllPolicies::Start(): Requesting policies
+2019/02/03 12:04:56.396     8    24 GX0   PListRequestPolicyAssignmentsAsyncCommand::Start(): Requesting policy assignments
+2019/02/03 12:04:56.401     8     9 GX0   ManagedDeviceInformationHelper::NotifyManagedDeviceInit(): All ManagedDevice information received.
+2019/02/03 12:04:56.493     8    21 GX0   QueryRooms::Execute[queryChatRoomsResponseCb]: No rooms received
+2019/02/03 12:04:57.170     8    24 GX0   PListRemoteSettingsPolicyRequester::HandleRequestAllPoliciesResponse(): 0 policies, Provider: 21
+2019/02/03 12:04:57.220     8    23 GX0   PListRemoteSettingsPolicyRequester::HandleRequestAssigmentsResponse(): 0 device assignments, 0 group assignments, Provider: 21
+2019/02/03 12:05:00.685     8     9 GX0   Trying connection to 995910379, mode = 1
+2019/02/03 12:05:00.685     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:00.686     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:00.686     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:00.687     8    34 GX0   CLogin::run()
+2019/02/03 12:05:00.687     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:00.690     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:00.691     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:00.691     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:00.692     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:00.692     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:00.692     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:01.304     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:01.304     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:01.304     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:01.305     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:01.305     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:01.408     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:01.409     8    34 GX0   CLoginClient::NegotiateVersionClient()
+2019/02/03 12:05:01.410     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:02.142     8    34 GX0   CLoginClient::AuthenticateClient()
+2019/02/03 12:05:02.143     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:02.921     8    34 GX0!! CLogin::AuthenticateClient() Connection to 995910379 denied, because remote version is incompatible
+2019/02/03 12:05:02.922     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:02.922     8    34 GX0   CLogin::run() leave
+2019/02/03 12:05:02.923     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:02.924     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:02.927     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:02.928     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:02.928     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:02.929     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:02.929     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:02.929     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:02.984     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.282     8     9 GX0   Trying connection to 995910379, mode = 1
+2019/02/03 12:05:06.282     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.286     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.286     8    35 GX0   CLogin::run()
+2019/02/03 12:05:06.287     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.288     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.288     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.289     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.290     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.290     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.291     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.291     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.291     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.721     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.721     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.722     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.722     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.722     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.804     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:06.806     8    35 GX0   CLoginClient::NegotiateVersionClient()
+2019/02/03 12:05:06.807     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:07.346     8    35 GX0   CLoginClient::AuthenticateClient()
+2019/02/03 12:05:07.347     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:07.583     8    35 GX0!! CLogin::AuthenticateClient() Connection to 995910379 denied, because remote version is incompatible
+2019/02/03 12:05:07.583     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:07.584     8    35 GX0   CLogin::run() leave
+2019/02/03 12:05:07.585     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:07.586     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:07.587     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:07.588     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:07.590     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:07.591     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:07.591     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:07.591     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:07.681     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.107     8     9 GX0   Trying connection to 995910379, mode = 1
+2019/02/03 12:05:12.107     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.108     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.108     8    36 GX0   CLogin::run()
+2019/02/03 12:05:12.109     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.110     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.111     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.114     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.116     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.116     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.117     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.117     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.117     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.555     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.556     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.556     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.556     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.556     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.639     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:12.640     8    36 GX0   CLoginClient::NegotiateVersionClient()
+2019/02/03 12:05:12.640     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:13.191     8    36 GX0   CLoginClient::AuthenticateClient()
+2019/02/03 12:05:13.192     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:13.397     8    36 GX0!! CLogin::AuthenticateClient() Connection to 995910379 denied, because remote version is incompatible
+2019/02/03 12:05:13.398     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:13.399     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:13.400     8    36 GX0   CLogin::run() leave
+2019/02/03 12:05:13.400     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:13.401     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:13.404     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:13.405     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:13.406     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:13.406     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:13.407     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:13.464     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:20.795     8     9 GX0   Trying connection to 995910379, mode = 1
+2019/02/03 12:05:20.796     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:20.797     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:20.797     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:20.798     8    37 GX0   CLogin::run()
+2019/02/03 12:05:20.798     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:20.799     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:20.802     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:20.803     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:20.803     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:20.803     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:20.804     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:20.804     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:21.262     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:21.263     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:21.263     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:21.263     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:21.263     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:21.378     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:21.379     8    37 GX0   CLoginClient::NegotiateVersionClient()
+2019/02/03 12:05:21.380     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:22.002     8    37 GX0   CLoginClient::AuthenticateClient()
+2019/02/03 12:05:22.003     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:22.294     8    37 GX0!! CLogin::AuthenticateClient() Connection to 995910379 denied, because remote version is incompatible
+2019/02/03 12:05:22.295     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:22.295     8    37 GX0   CLogin::run() leave
+2019/02/03 12:05:22.296     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:22.297     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:22.297     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:22.299     8    24 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:22.299     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:22.300     8    21 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:22.300     8    22 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:22.300     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:22.404     8    23 GX0!  TeamViewer.exe: unable to send command 3
+2019/02/03 12:05:29.863  6330 139650368552000 gX0   Process received SIGINT from process: 0
+2019/02/03 12:05:29.864  6330 139650213472000 gX0   XClipboard: Shutting down event loop
+2019/02/03 12:05:29.964  6330 139650368552000 gX0   TVGuiSlave.64: Terminated
