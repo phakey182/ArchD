@@ -101,6 +101,12 @@ bindsym $mod+j exec --no-startup-id amixer set Master 8%+
 # decrease volume
 bindsym $mod+k exec --no-startup-id amixer set Master 8%-
 
+# increase brightness
+bindsym $mod+u exec --no-startup-id xbacklight -inc 8
+
+# decrease brightness
+bindsym $mod+i exec --no-startup-id xbacklight -dec 8
+
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
 set $ws1 "1"
