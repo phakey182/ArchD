@@ -252,5 +252,5 @@ exec --no-startup-id compton -b
 #detect monitors
 exec --no-startup-id autorandr --change
 
-#enable autolock
-exec --no-startup-id xautolock -time 10 -locker i3lock -u -i ~/.i3/arrow.png -p default
+#start xautolock
+exec --no-startup-id ~/.config/locker.sh
