@@ -96,10 +96,10 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 # increase volume
-bindsym $mod+n exec --no-startup-id amixer set Master 8%+
+bindsym $mod+n exec --no-startup-id amixer set Master 5%+
 
 # decrease volume
-bindsym $mod+m exec --no-startup-id amixer set Master 8%-
+bindsym $mod+m exec --no-startup-id amixer set Master 5%-
 
 # increase brightness
 bindsym $mod+u exec --no-startup-id xbacklight -inc 8
@@ -183,6 +183,8 @@ bindsym $mod+r mode "resize"
 bar {
 	position top
 	status_command i3status
+	status_command .config/i3/weather.sh
+	tray_output primary
 }
 
 # Disable window titlebars entirely
