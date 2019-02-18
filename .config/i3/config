@@ -268,3 +268,6 @@ exec --no-startup-id autorandr --change
 
 #start xautolock
 exec --no-startup-id ~/.config/locker.sh
+
+#start conky
+exec --no-startup-id conky
