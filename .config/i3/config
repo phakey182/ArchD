@@ -33,7 +33,7 @@ floating_modifier $mod
 bindsym $mod+Return exec termite
 
 # kill focused window
-bindsym $mod+Shift+q kill
+bindsym $mod+q kill
 
 # start dmenu (a program launcher)
 bindsym $mod+d exec --no-startup-id dmenu_run -b
@@ -96,16 +96,16 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 # increase volume
-bindsym $mod+n exec --no-startup-id amixer set Master 5%+
+bindsym $mod+m exec --no-startup-id amixer set Master 5%+
 
 # decrease volume
-bindsym $mod+m exec --no-startup-id amixer set Master 5%-
+bindsym $mod+n exec --no-startup-id amixer set Master 5%-
 
 # increase brightness
-bindsym $mod+u exec --no-startup-id xbacklight -inc 8
+bindsym $mod+i exec --no-startup-id xbacklight -inc 8
 
 # decrease brightness
-bindsym $mod+i exec --no-startup-id xbacklight -dec 8
+bindsym $mod+u exec --no-startup-id xbacklight -dec 8
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
@@ -191,8 +191,8 @@ bar {
 for_window [class="^.*"] border pixel 2
 
 # Set inner/outer gaps
-gaps inner 35
-gaps outer 15
+gaps inner 20
+gaps outer 10
 
 # Additionally, you can issue commands with the following syntax. This is useful to bind keys to changing the gap size.
 # gaps inner|outer current|all set|plus|minus <px>

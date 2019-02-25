@@ -30,15 +30,15 @@ conky.config = {
     border_width = 1,
     cpu_avg_samples = 2,
     default_color = 'FF6F27',
-    default_outline_color = 'white',
-    default_shade_color = 'white',
+    default_outline_color = 'black',
+    default_shade_color = 'black',
     double_buffer = true,
     draw_borders = false,
     draw_graph_borders = true,
-    draw_outline = false,
+    draw_outline = true,
     draw_shades = false,
     use_xft = true,
-    font = 'DejaVu Sans Mono:size=10',
+    font = 'DejaVu Sans Mono:size=9',
     gap_x = 5,
     gap_y = 60,
     minimum_height = 5,
@@ -63,28 +63,28 @@ conky.config = {
 }
 
 conky.text = [[
-ArchD - SysInfo
-$hr
+${color 56B6FF}ArchD - SysInfo
+${color FF6F27}$hr
 ${color 56B6FF}Uptime:$color $uptime
-#${color 56B6FF}Batt:$color ${battery_percent BAT0}% ${battery_bar 4,110 BAT0}
-${color 56B6FF}RAM Usage:$color $mem/$memmax - $memperc% ${membar 4}
-${color 56B6FF}Swap Usage:$color $swap/$swapmax - $swapperc% ${swapbar 4}
-${color 56B6FF}CPU Usage:$color $cpu% ${cpubar 4}
+${color 56B6FF}Batt:$color ${battery_percent BAT0}% ${color 56B6FF}${battery_bar 4,110 BAT0}
+${color 56B6FF}RAM Usage:$color $mem/$memmax - $memperc% ${color 56B6FF}${membar 4}
+${color 56B6FF}Swap Usage:$color $swap/$swapmax - $swapperc% ${color 56B6FF}${swapbar 4}
+${color 56B6FF}CPU Usage:$color $cpu% ${color 56B6FF}${cpubar 4}
 ${color 56B6FF}CPU0 Temp:$color ${cpu cpu0}% ${exec sensors | grep 'Core' | cut -c16-23 | head -n1}
 ${color 56B6FF}CPU1 Temp:$color ${cpu cpu1}% ${exec sensors | grep 'Core' | cut -c16-23 | head -n1}
 ${color 56B6FF}Processes:$color $processes  ${color 56B6FF}Running:$color $running_processes
-$hr
+${color FF6F27}$hr
 ${color 56B6FF}File systems:
- / $color${fs_used /}/${fs_size /} ${fs_bar 6 /}
-$hr
+ / $color${fs_used /}/${fs_size /} ${color 56B6FF}${fs_bar 6}
+${color FF6F27}$hr
 ${color 56B6FF}Wi-Fi Network Name: ${color FF6F27}$alignr${wireless_essid wlp4s0}
 ${color 56B6FF}Link Quality ${color FF6F27}$alignr${wireless_link_qual_perc wlp4s0}% (${wireless_link_qual wlp4s0}/${wireless_link_qual_max wlp4s0})
 ${color 56B6FF}IPv4 Address ${color FF6F27}$alignr${addr wlp4s0}
-${color 56B6FF}Public IP Address ${color FF6F27}$alignr${execi 60 curl  ipinfo.io/ip} [${execi 60 curl  ipinfo.io/country}]
-${color AEA79F}${downspeedgraph wlp4s0 24,103 3B1037 60FF39} $alignr${upspeedgraph wlp4s0 24,103 3B1037 60FF39}${color DAD7D3}
+${color 56B6FF}Public IP Address ${color FF6F27}$alignr${execi 60 curl  ipinfo.io/ip}
+${color AEA79F}${downspeedgraph wlp4s0 24,103 3B1037 56B6FF} $alignr${upspeedgraph wlp4s0 24,103 3B1037 56B6FF}${color DAD7D3}
 ${color 56B6FF}Down ${color FF6F27}${downspeedf wlp4s0} KiB/s${color 56B6FF}$alignr Up ${color FF6F27}${upspeedf wlp4s0} KiB/s
 ${color 56B6FF}Total ${color FF6F27}${totaldown wlp4s0}${color 56B6FF}$alignr Total ${color FF6F27}${totalup wlp4s0}
-$hr
+${color FF6F27}$hr
 ${color 56B6FF}Name              PID   CPU%   MEM%
 ${color FF6F27} ${top name 1} ${top pid 1} ${top cpu 1} ${top mem 1}
 ${color FF6F27} ${top name 2} ${top pid 2} ${top cpu 2} ${top mem 2}
