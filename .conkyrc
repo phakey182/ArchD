@@ -63,8 +63,6 @@ conky.config = {
 }
 
 conky.text = [[
-${color 56B6FF}ArchD - SysInfo
-${color FF6F27}$hr
 ${color 56B6FF}Uptime:$color $uptime
 #${color 56B6FF}Batt:$color ${battery_percent BAT0}% ${color 56B6FF}${battery_bar 4,110 BAT0}
 ${color 56B6FF}RAM Usage:$color $mem/$memmax - $memperc% ${color 56B6FF}${membar 4}
@@ -98,5 +96,6 @@ ${color 56B6FF}${exec cat ~/.weather.cache | sed -n '3p' | cut -c 1-15} $alignr 
 ${color 56B6FF}${exec cat ~/.weather.cache | sed -n '4p' | cut -c 1-15} $alignr $color ${exec cat ~/.weather.cache | sed -n '4p' | cut -c 16-30 | xargs}
 ${color 56B6FF}${exec cat ~/.weather.cache | sed -n '5p' | cut -c 1-15} $alignr $color ${exec cat ~/.weather.cache | sed -n '5p' | cut -c 16-30 | xargs}
 ${color 56B6FF}${exec cat ~/.weather.cache | sed -n '6p' | cut -c 1-15} $alignr $color ${exec cat ~/.weather.cache | sed -n '6p' | cut -c 16-30 | xargs}
+${color 56B6FF}${exec cat ~/.weather.cache | sed -n '7p' | cut -c 1-15} $alignr $color ${exec cat ~/.weather.cache | sed -n '7p' | cut -c 16-30 | xargs}
 ${execi 300 curl -4 wttr.in | sed -n '3,7p' | perl -pe 's/\e\[?.*?[\@-~]//g' > ~/.weather.cache}
 ]]
