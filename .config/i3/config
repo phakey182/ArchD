@@ -107,6 +107,9 @@ bindsym $mod+i exec --no-startup-id xbacklight -inc 8
 # decrease brightness
 bindsym $mod+u exec --no-startup-id xbacklight -dec 8
 
+# capture screenshot
+bindsym $mod+c exec --no-startup-id flameshot gui
+
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
 set $ws1 "1"
@@ -251,6 +254,9 @@ client.unfocused        #333333 #222222 #888888 #292d2e   #222222
 client.urgent           #2f343a #900000 #ffffff #900000   #900000
 client.background	#04090C
 
+#detect displays
+exec --no-startup-id autorandr --change
+
 #start redshift
 exec --no-startup-id redshift -l 33:97
 
@@ -262,9 +268,6 @@ exec --no-startup-id clipit
 
 #start compton
 exec --no-startup-id compton -b
-
-#detect monitors
-exec --no-startup-id autorandr --change
 
 #start xautolock
 exec --no-startup-id ~/.config/locker.sh
