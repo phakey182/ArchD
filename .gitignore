@@ -72,3 +72,7 @@ uid.php
 .fehbg
 Pictures/
 Downloads/
+.config/configstore/
+.npm/
+VideoDecodeStatus/
+.GA_ClientID
