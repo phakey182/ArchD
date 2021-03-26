@@ -74,5 +74,6 @@ Pictures/
 Downloads/
 .config/configstore/
 .npm/
-VideoDecodeStatus/
+VideoDecodeStatus/*
 .GA_ClientID
+.config/flameshot/
