@@ -267,7 +267,7 @@ exec --no-startup-id feh --bg-fill ~/Downloads/deathstroke.jpg
 exec --no-startup-id clipit
 
 #start picom
-exec --no-startup-id picom -b
+#exec --no-startup-id picom -b
 
 #start xautolock
 exec --no-startup-id ~/.config/locker.sh
